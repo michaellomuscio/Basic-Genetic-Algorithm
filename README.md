@@ -13,3 +13,6 @@ The genetic algorithm uses the following mechanisms:
 - **Selection**: Strings that are closer to the target have a higher chance of being selected.
 - **Crossover**: Two parent strings are combined to produce a new string.
 - **Mutation**: There's a small chance that some characters in a string might randomly change.
+
+## Resources to learn more
+[Here](https://docs.google.com/document/d/1_lzpuUzTSAosdZqfeqtqmqSjo8RCp2LCSfn47HPbAG8/edit?usp=sharing) is a brief introduction to genetic algorithms.
