@@ -2,7 +2,7 @@
 # Basic Genetic Algorithm Example
 
 ## Overview
-This example demonstrates a basic genetic algorithm that aims to generate a target string starting from random strings.
+[This example](https://michaellomuscio.github.io/Basic-Genetic-Algorithm/) demonstrates a basic genetic algorithm that aims to generate a target string starting from random strings. 
 
 ## How to Use
 - Open `index.html` in a web browser.
